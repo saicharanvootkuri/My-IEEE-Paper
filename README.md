@@ -11,7 +11,7 @@ The paper presents a practical approach to enhancing user experience in blockcha
 You can download the PDF of the paper [here](./Efficient_Token_Transfer_Using_ERC-20_Decentralized_Exchange.pdf).
 
 ## Link to Official Publication
-The paper is also available on IEEE Xplore. You can access it [here](https://doi.org/10.1109/ISCS61804.2024.10581224).
+The paper is also available on IEEE Xplore. You can access it [here](https://ieeexplore.ieee.org/document/10581224).
 
 ## Keywords
 - ERC20 Tokens
@@ -24,6 +24,7 @@ The paper is also available on IEEE Xplore. You can access it [here](https://doi
 We would like to thank the Department of Computer Engineering and Technology, Chaitanya Bharathi Institute of Technology, Hyderabad, India, for their support throughout this research.
 
 ## Contact
-For questions or further discussion, feel free to reach out to me at viswasmc238@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+For questions or further discussion, feel free to reach out to me at vootkurisaicharan@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/vootkuri-sai-charan-291073249/).
+
 
 
